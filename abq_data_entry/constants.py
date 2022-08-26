@@ -1,5 +1,3 @@
-#
-
 class FieldTypes:
     string = 1
     string_list = 2
@@ -8,5 +6,3 @@ class FieldTypes:
     decimal = 5
     integer = 6
     boolean = 7
-
-
